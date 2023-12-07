@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://dhruv0811.github.io/al-folio/sitemap.xml
