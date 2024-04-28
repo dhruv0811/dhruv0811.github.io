@@ -9,8 +9,7 @@ profile:
   image: dhruv_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>212 Marion St.</p>
-    <p>Madison, WI 53703</p>
+    <p>Madison, WI</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
